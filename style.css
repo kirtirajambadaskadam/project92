@@ -1,0 +1,58 @@
+body
+{
+	background:deeppink;
+    
+}
+
+	.login_div1 , .login_div2
+	{
+		background:yellowgreen;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+    }
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    
+}
+#number1
+{
+	width: 60%;
+}
+#number1_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1{
+    color:black;
+    font-family: fantasy;
+    font-style: inherit;
+}
+h2{
+	font-size: 50;
+	font-weight: bolder;
+	font-family: fantasy;
+}
+
+#number2
+{
+	width: 60%;
+}
+#number2_display
+{
+	letter-spacing: 5px;
+}
